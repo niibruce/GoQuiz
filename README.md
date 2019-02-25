@@ -1,6 +1,6 @@
 # GoQuiz
 
-Dead Simple Command line application to run timed, arithmetic quizzes.
+Getting familiar with Golang by building a quiz game on the CL. GoQuiz is a command line application to run timed, arithmetic quizzes.
 
 
 go run ./GoQuiz -csv {csv filename} -time {time limit in seconds} -shuffle {shuffle}
